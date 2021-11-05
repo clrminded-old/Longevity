@@ -1,7 +1,7 @@
 //
 //  SceneDelegate.swift
 //  Longevity
-//
+//  I THINK THIS IS USED TO CHECK STORYBOARD
 //  Created by Christopher Liudahl-Rackley on 11/5/21.
 //
 

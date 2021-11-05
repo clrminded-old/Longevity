@@ -1,7 +1,7 @@
 //
 //  AppDelegate.swift
 //  Longevity
-//
+//  This is where some code can go to do either no storyboard or storyboard
 //  Created by Christopher Liudahl-Rackley on 11/5/21.
 //
 

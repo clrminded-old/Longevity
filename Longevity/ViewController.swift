@@ -1,7 +1,7 @@
 //
 //  ViewController.swift
 //  Longevity
-//
+// VIEW CONTROLLER
 //  Created by Christopher Liudahl-Rackley on 11/5/21.
 //
 
@@ -14,6 +14,6 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-
+    
 }
 
